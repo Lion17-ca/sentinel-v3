@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer Mac
+*.DS_Store
+
+# Logs
+*.log
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.kate-swp
+
+# Custom
+xyconis_sentinel.log
+
