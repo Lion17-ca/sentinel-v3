@@ -1,6 +1,6 @@
 # Sentinel v3.0
 
-## Table de contenus
+## Table des matières
 - [Description](#description)
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
